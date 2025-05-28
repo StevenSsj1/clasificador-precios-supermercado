@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto desarrolla un sistema de detección y clasificación de precios fuera de lo normal en productos de supermercados de Ecuador (Coral, SuperMaxi, Megamaxi y Gran AKI).  
+Este proyecto desarrolla un sistema de detección y clasificación de precios fuera de lo normal en productos de supermercados de Ecuador (Coral, (SuperMaxi, Megamaxi y Gran AKI) TipTi).  
 Utilizamos Web Scraping para recolectar precios, aplicamos Z-Score para detectar anomalías y clasificamos los precios anómalos como **"Precio Alto"** o **"Promoción"**.
 
 ## Objetivo
